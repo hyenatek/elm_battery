@@ -1,0 +1,8 @@
+framework module elmbattery {
+    umbrella header "elmbattery.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
